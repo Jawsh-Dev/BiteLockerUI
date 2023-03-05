@@ -1,1 +1,1 @@
-# SuggestionApp
+# RecipeApp
